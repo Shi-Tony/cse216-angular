@@ -1,0 +1,23 @@
+{
+  "name": "cse216-angular",
+  "version": "1.0.0",
+  "description": "backend for cse216 angular tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shi-Tony/cse216-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shi-Tony/cse216-angular/issues"
+  },
+  "homepage": "https://github.com/Shi-Tony/cse216-angular#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
